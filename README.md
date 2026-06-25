@@ -33,5 +33,5 @@ and deployed as an interactive Streamlit application.
 [Pima Indians Diabetes Database — Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## 👩‍💻 Author
-**Anaam Bind Hussain** — BTech AI & Data Science, Final Year  
+**Anaam Bind Hussain** — BTech AI & Data Science Student, Final Year  
 [GitHub](https://github.com/anaamanalysis)
